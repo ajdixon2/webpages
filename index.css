@@ -1,0 +1,21 @@
+/*
+ *Name: [Aiden Dixon]
+ *UnityID: [ajdixon]
+ *Date: [November 9th 2024]
+ *Assignment: [Week 5 Project]
+ *Description: [HTML and styling assignments]
+ */
+ 
+p {
+    background-color: #ff0000;
+}
+
+.table-border {
+    border: 1px solid #000000;
+}
+
+#photo-styling {
+    max-width: 200px;
+    max-height: 250px;
+    border: 2px solid #00ff15
+}
